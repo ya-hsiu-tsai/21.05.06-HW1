@@ -1,0 +1,1 @@
+void strquicksort(char str[][101], int left, int right);
